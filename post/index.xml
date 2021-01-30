@@ -5,12 +5,20 @@
     <link>https://aflueckiger.github.io/post/</link>
       <atom:link href="https://aflueckiger.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Alex Flückiger 2020</copyright>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Alex Flückiger 2021</copyright><lastBuildDate>Fri, 29 Jan 2021 17:50:18 +0100</lastBuildDate>
     <image>
-      <url>https://aflueckiger.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://aflueckiger.github.io/images/icon_hu9520d71d07fbe9f4749941f682f4c1f0_19742_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
       <link>https://aflueckiger.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>My Article Name</title>
+      <link>https://aflueckiger.github.io/post/my-article-name/</link>
+      <pubDate>Fri, 29 Jan 2021 17:50:18 +0100</pubDate>
+      <guid>https://aflueckiger.github.io/post/my-article-name/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

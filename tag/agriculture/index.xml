@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>agriculture | AF</title>
+    <link>https://aflueckiger.github.io/tag/agriculture/</link>
+      <atom:link href="https://aflueckiger.github.io/tag/agriculture/index.xml" rel="self" type="application/rss+xml" />
+    <description>agriculture</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Alex Flückiger 2021</copyright><lastBuildDate>Sat, 05 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aflueckiger.github.io/images/icon_hu9520d71d07fbe9f4749941f682f4c1f0_19742_512x512_fill_lanczos_center_2.png</url>
+      <title>agriculture</title>
+      <link>https://aflueckiger.github.io/tag/agriculture/</link>
+    </image>
+    
+    <item>
+      <title>Open Farming Hackdays: Open Data Farming</title>
+      <link>https://aflueckiger.github.io/project/open-farming-hackathon/</link>
+      <pubDate>Sat, 05 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://aflueckiger.github.io/project/open-farming-hackathon/</guid>
+      <description>&lt;p&gt;Farming is one of the oldest professions. Due to the extensive  development of information technology, agriculture is facing yet another significant change after the industrial revolution. For farmers, there  is a myriad of challenges to cope with, yet also as many opportunities.  This premise was the point of reference for the first Swiss farming  hackathon in 2020, called &lt;a href=&#34;https://opendata.ch/projects/open-farming-hackdays-2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Farming Hackdays&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Much hope lies in data-driven analyses. Data is valuable as everyone knows. As the wisdom goes, the more the data, the better. In many areas, however, there is no systematic data available. Thus, the main  challenge is to collect data first before harvesting it for new  insights. Unfortunately, much data is proprietary, meaning not free to  use for everyone interested in it. Only open data enables innovation as  any actors can make use of it by developing a multitude of solutions.&lt;/p&gt;
+&lt;p&gt;In farming, crowdsourced data about the spread of plant diseases or  neophytes&#39; prevalence could broadly foster new sustainable practices in the longer term. Against this backdrop, we developed an end-to-end  prototype featuring the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;a &lt;strong&gt;mobile web application&lt;/strong&gt; to record geo-referenced data on the field&lt;/li&gt;
+&lt;li&gt;a &lt;strong&gt;cloud-based web service&lt;/strong&gt; to aggregate the data at a central place&lt;/li&gt;
+&lt;li&gt;a Python script to &lt;strong&gt;access, combine, and plot this data with any other data source&lt;/strong&gt; of interest&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
